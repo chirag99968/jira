@@ -1,0 +1,13 @@
+{
+    "/login": {
+        "target": "https://mysterious-castle-76854.herokuapp.com",
+        "secure": true,
+        "changeOrigin": true
+    },
+
+    "/ticket": {
+        "target": "https://mysterious-castle-76854.herokuapp.com",
+        "secure": true,
+        "changeOrigin": true
+    }
+}
